@@ -1,0 +1,7 @@
+{
+  "name": "Beezee",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
